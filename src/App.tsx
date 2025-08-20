@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { MessageSquare, ArrowUp, ExternalLink, RefreshCw, Clock, User, Globe, Search, ChevronLeft, ChevronRight } from "lucide-react";
 // Make sure you've installed your wrapper: `npm i hackernews-js`
 import { HNClient } from "hackernews-js";
