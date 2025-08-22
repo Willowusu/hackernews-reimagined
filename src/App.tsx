@@ -168,8 +168,8 @@ export default function HackerNewsApp() {
       <header className="sticky top-0 z-30 bg-white/80 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b">
         <div className="mx-auto max-w-6xl px-4 py-3 flex items-center gap-3">
           <div className="flex items-center gap-2">
-            <span className="inline-flex h-9 w-9 items-center justify-center rounded-xl bg-orange-500 text-white font-bold">HN</span>
-            <h1 className="text-xl font-semibold">HackerNews — Reimagined</h1>
+            <span className="inline-flex h-9 w-9 items-center justify-center rounded-xl bg-orange-500 text-white font-bold">HF</span>
+            <h1 className="text-xl font-semibold">Hacker Flow - HackerNews Reimagined</h1>
           </div>
 
           <nav className="ml-6 hidden md:flex gap-1">
